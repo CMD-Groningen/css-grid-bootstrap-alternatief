@@ -1,11 +1,11 @@
-# CSS grid alternatief voor Bootstrap 
+# CSS grid Bootstrap alternatief
 
 ## Voorbeeld bestanden
 Bestanden **downloaden** naar je laptop? [Klik hier](https://github.com/CMD-Groningen/css-grid-bootstrap-alternatief/archive/refs/heads/master.zip)     
 Preview in de browser? [Klik hier](https://cmd-groningen.github.io/css-grid-bootstrap-alternatief)  
 Speel live met deze code in **CodeSandbox** > [Klik hier!](https://codesandbox.io/s/github/CMD-Groningen/css-grid-bootstrap-alternatief) 
 
-Voorbeeld van hoe je het column grid van Bootstrap (of Foundation) kunt klonen door alleen vanilla CSS grids te gebruiken! Je kunt eenvoudig je eigen rastersysteem maken door slechts een paar regels CSS-code te gebruiken. Begin met het maken van een rasterdefinitie van 12 kolommen in je CSS-bestand (het kan willekeurig **elk** aantal kolommen zijn dat je wilt!) 🙂
+Voorbeeld van hoe je het complete column grid met spans van Bootstrap (of Foundation) kunt klonen door alleen vanilla CSS grids te gebruiken! Je kunt eenvoudig je eigen rastersysteem maken door slechts een paar regels CSS-code te gebruiken. Begin met het maken van een rasterdefinitie van 12 kolommen in je CSS-bestand (het kan willekeurig **elk** aantal kolommen zijn dat je wilt!) 🙂
 
 ```CSS
 display:grid;
