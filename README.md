@@ -1,13 +1,18 @@
-# css-grid-bootstrap-alternative
+# css-grid-bootstrap-alternatief
 
-Example of how to clone the Bootstrap (or Foundation) grid behaviour by just using vanilla CSS grids! You can easily create your own grid system by just using a few lines of CSS code. Start by creating  a 12 column grid definition in your CSS file (it can be any amount of columns really!) 🙂
+## Voorbeeld bestanden
+Bestanden **downloaden** naar je laptop? [Klik hier](https://github.com/CMD-Groningen/css-grid-bootstrap-alternatief/archive/refs/heads/master.zip)     
+Preview in de browser? [Klik hier](https://cmd-groningen.github.io/css-grid-bootstrap-alternatief)  
+Speel live met deze code in **CodeSandbox** > [Klik hier!](https://codesandbox.io/s/github/CMD-Groningen/css-grid-bootstrap-alternatief) 
+
+Voorbeeld van hoe je het column grid van Bootstrap (of Foundation) kunt klonen door alleen vanilla CSS grids te gebruiken! Je kunt eenvoudig je eigen rastersysteem maken door slechts een paar regels CSS-code te gebruiken. Begin met het maken van een rasterdefinitie van 12 kolommen in je CSS-bestand (het kan willekeurig **elk** aantal kolommen zijn dat je wilt!) 🙂
 
 ```CSS
 display:grid;
 grid-template-columns: repeat(12,1fr);
 ```
 
-And then define the column spans for the columns in your lay-outs:
+En definieer dan de column spans voor de kolommen in je lay-outs:
 
 ```CSS
 header { grid-column:span 12;}
