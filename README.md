@@ -25,6 +25,7 @@ footer { grid-column:span 12;}
 CMD Team  
 
 <img src="https://github.com/CMD-Groningen/.github/raw/main/davidvandenbor-rond.png" style="width: 80px; max-width: 100%;">
+<img src="https://avatars.githubusercontent.com/u/124282406?s=80&amp;v=4" style="width: 80px; max-width: 100%;">
 
 Docent Communicatie & Multimedia Design @ Hanzehogeschool Groningen  
 d.b.p.van.den.bor@pl.hanze.nl  
