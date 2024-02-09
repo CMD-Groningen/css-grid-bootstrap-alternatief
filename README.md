@@ -1,4 +1,4 @@
-# css-grid-bootstrap-alternatief
+# CSS grid alternatief voor Bootstrap 
 
 ## Voorbeeld bestanden
 Bestanden **downloaden** naar je laptop? [Klik hier](https://github.com/CMD-Groningen/css-grid-bootstrap-alternatief/archive/refs/heads/master.zip)     
