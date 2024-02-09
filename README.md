@@ -21,11 +21,11 @@ main { grid-column:span 9;}
 footer { grid-column:span 12;}
 ```
 
-**David van den Bor**
-CMD Team
+**David van den Bor**  
+CMD Team  
 
-Docent Communicatie & Multimedia Design @ Hanzehogeschool Groningen
-d.b.p.van.den.bor@pl.hanze.nl
+Docent Communicatie & Multimedia Design @ Hanzehogeschool Groningen  
+d.b.p.van.den.bor@pl.hanze.nl  
 
-https://github.com/CMD-Groningen
+https://github.com/CMD-Groningen  
 https://github.com/davidvandenbor
