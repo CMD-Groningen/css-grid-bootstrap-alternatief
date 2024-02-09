@@ -21,6 +21,7 @@ main { grid-column:span 9;}
 footer { grid-column:span 12;}
 ```
 
+----------------------
 **David van den Bor**  
 CMD Team  
 
