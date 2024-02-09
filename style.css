@@ -1,0 +1,19 @@
+section {
+  max-width:800px;
+  margin:0 auto;
+  display:grid;
+  grid-gap:10px;
+  grid-template-columns: repeat(12,1fr);
+  grid-template-rows:100px 200px 80px;
+}
+
+header,nav,main,footer {
+  font-family:sans-serif;
+  background: lightblue;
+  padding:10px
+}
+
+header { grid-column:span 12;}
+nav { grid-column: span 3;}
+main { grid-column:span 9;}
+footer { grid-column:span 12;}
